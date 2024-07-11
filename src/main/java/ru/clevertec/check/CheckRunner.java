@@ -4,7 +4,7 @@ import main.java.ru.clevertec.check.OrderService.Order;
 
 public class CheckRunner {
 
-    private static final String PATH_RESULT = "./src/main/resources/result.csv";
+    private static final String PATH_RESULT = "result.csv";
 
     public static final Boolean CONSOLE_ADDITIONAL_INFO = true;
 
