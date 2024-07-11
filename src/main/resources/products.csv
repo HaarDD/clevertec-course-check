@@ -1,0 +1,21 @@
+id;description;price, $;quantity in stock;wholesale product
+1;Milk;1,07;10;+
+2;Cream 400g;2,71;20;+
+3;Yogurt 400g;2,1;7;+
+4;Packed potatoes 1kg;1,47;30;-
+5;Packed cabbage 1kg;1,19;15;-
+6;Packed tomatoes 350g;1,6;50;-
+7;Packed apples 1kg;2,78;18;-
+8;Packed oranges 1kg;3,2;12;-
+9;Packed bananas 1kg;1,1;25;+
+10;Packed beef fillet 1kg;12,8;7;-
+11;Packed pork fillet 1kg;8,52;14;-
+12;Packed chicken breasts 1kgSour;10,75;18;-
+13;Baguette 360g;1,3;10;+
+14;Drinking water 1,5l;0,8;100;-
+15;Olive oil 500ml;5,3;16;-
+16;Sunflower oil 1l;1,2;12;-
+17;Chocolate Ritter sport 100g;1,1;50;+
+18;Paulaner 0,5l;1,1;100;-
+19;Whiskey Jim Beam 1l;13,99;30;-
+20;Whiskey Jack Daniels 1l;17,19;20;-
